@@ -1,0 +1,225 @@
+#total{
+    width: 1200px;
+    height: 1200px;
+}
+#head{
+    display: inline-flex;
+    width: 1200px;
+    height: 100px;
+    gap: 10px;
+}
+#A{
+    width: 90px;
+    height: 90px;
+    background-color: black;
+    color: white;
+}
+#B{
+    width: 200px;
+    height: 90px;
+    background-color: black;
+    color: white;
+}
+#C{
+    width: 300px;
+    height: 90px;
+    background-color: black;
+    color: white;
+    font-size: xx-large;
+}
+#D{
+    width: 100px;
+    height: 90px;
+    background-color: black;
+    color: white;
+    font-size: xx-large;
+}
+#E{
+    width: 200px;
+    height: 90px;
+    background-color: black;
+    color: white;
+    font-size: large;
+}
+#F{
+    width: 150px;
+    height: 90px;
+    background-color: black;
+    color: white;
+    font-size: xx-large;
+}
+#G{
+    width: 100px;
+    height: 90px;
+    background-color: black;
+    color: white;
+    font-size: xx-large;
+}
+
+#head2{
+    display: inline-flex;
+    width: 1200px;
+    height: 50px;
+    background-color: darkblue;
+}
+#a1{
+    width: 100px;
+    height: 50px;
+    color: white;
+    font-size: x-large;
+    margin-left: 5px;
+}
+#a2{
+    width: 100px;
+    height: 50px;
+    color: white;
+    font-size: x-large;
+    margin-left: 5px;
+}
+#a3{
+    width: 100px;
+    height: 50px;
+    color: white;
+    font-size: x-large;
+    margin-left: 5px;
+}
+#a4{
+    width: 100px;
+    height: 50px;
+    color: white;
+    font-size: x-large;
+    margin-left: 5px;
+}
+#a5{
+    width: 100px;
+    height: 50px;
+    color: white;
+    font-size: x-large;
+    margin-left: 5px;
+}
+#a6{
+    width: 100px;
+    height: 50px;
+    color: white;
+    font-size: x-large;
+    margin-left: 5px;
+}
+#a7{
+    width: 100px;
+    height: 50px;
+    color: white;
+    font-size: x-large;
+    margin-left: 5px;
+}
+#a8{
+    width: 100px;
+    height: 50px;
+    color: white;
+    font-size: x-large;
+    margin-left: 5px;
+}
+#a9{
+    width: 100px;
+    height: 50px;
+    color: white;
+    font-size: x-large;
+    margin-left: 5px;
+}
+#a10{
+    width: 100px;
+    height: 50px;
+    color: white;
+    font-size: x-large;
+    margin-left: 5px;
+}
+#a11{
+    width: 100px;
+    height: 50px;
+    color: white;
+    font-size: x-large;
+    margin-left: 5px;
+}
+#a12{
+    width: 100px;
+    height: 50px;
+    color: white;
+    font-size: x-large;
+    margin-left: 5px;
+}
+#a13{
+    width: 100px;
+    height: 50px;
+    color: white;
+    font-size: x-large;
+    margin-left: 5px;
+}
+#a14{
+    width: 100px;
+    height: 50px;
+    color: white;
+    font-size: x-large;
+    margin-left: 5px;
+}
+#a15{
+    width: 100px;
+    height: 50px;
+    color: white;
+    font-size: x-large;
+    margin-left: 5px;
+}
+#a16{
+    width: 100px;
+    height: 50px;
+    color: white;
+    font-size: x-large;
+    margin-left: 5px;
+}
+#head3{
+    width: 1200px;
+    height: 1200px;
+    gap: 10px;
+    background-color: beige;
+}
+#subbox1{
+    width: 1200px;
+    height: 400px;
+    gap: 10px;
+    background-color: aqua;
+    gap: 10px;
+    display: inline-flex;
+}
+#subbox2{
+    width: 1200px;
+    height: 400px;
+    gap: 10px;
+    background-color: yellow;
+    display: inline-flex;
+
+}
+#subbox3{
+    width: 1200px;
+    height: 400px;
+    gap: 10px;
+    background-color: grey;
+    display: inline-flex;
+}
+#box1{
+    width: 300px;
+    height: 400px;
+    background-color: azure;
+}
+#box2{
+    width: 300px;
+    height: 400px;
+    background-color: azure;
+}
+#box3{
+    width: 300px;
+    height: 400px;
+    background-color: azure;
+}
+#box4{
+    width: 300px;
+    height: 400px;
+    background-color: azure;
+}
